@@ -4,4 +4,11 @@
   <artifactId>com.private.monitoring</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>monitoring</name>
+  <dependencies>
+  	<dependency>
+  		<groupId>test</groupId>
+  		<artifactId>test</artifactId>
+  		<scope>test</scope>
+  	</dependency>
+  </dependencies>
 </project>
